@@ -4,7 +4,6 @@
  
  <h1 style="text-align:center"> CRUD with Nest.js and MongoDB<h1>
 
-
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
@@ -44,7 +43,7 @@ $ npm run test:cov
 ## Stay in touch
 
 - Author: Saeid Imani
-  -Email: saeid.almahdi@gmail.com
+- Email: saeid.almahdi@gmail.com
 
 ## License
 
