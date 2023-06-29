@@ -2,7 +2,8 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
  
-<center><h1> CRUD with Nest.js and MongoDB<h1></center>
+ <h1 style="text-align:center"> CRUD with Nest.js and MongoDB<h1>
+
 
 ## Description
 
